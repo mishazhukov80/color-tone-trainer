@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/color-tone-trainer/static/css/main.e6c13ad2.css",
-    "main.js": "/color-tone-trainer/static/js/main.7a309297.js",
+    "main.css": "/color-tone-trainer/static/css/main.4bb28482.css",
+    "main.js": "/color-tone-trainer/static/js/main.69f26cd9.js",
     "static/js/453.7978eaf7.chunk.js": "/color-tone-trainer/static/js/453.7978eaf7.chunk.js",
     "index.html": "/color-tone-trainer/index.html",
-    "main.e6c13ad2.css.map": "/color-tone-trainer/static/css/main.e6c13ad2.css.map",
-    "main.7a309297.js.map": "/color-tone-trainer/static/js/main.7a309297.js.map",
+    "main.4bb28482.css.map": "/color-tone-trainer/static/css/main.4bb28482.css.map",
+    "main.69f26cd9.js.map": "/color-tone-trainer/static/js/main.69f26cd9.js.map",
     "453.7978eaf7.chunk.js.map": "/color-tone-trainer/static/js/453.7978eaf7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.7a309297.js"
+    "static/css/main.4bb28482.css",
+    "static/js/main.69f26cd9.js"
   ]
 }
