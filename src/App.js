@@ -211,6 +211,7 @@ const App = () => {
 };
 
 
+// Good article on RGB to luminance algorithms: https://e2eml.school/convert_rgb_to_grayscale
 function gammaCorrect(value) {
   return (value / 255) <= 0.04045 ? (value / 255) / 12.92 : Math.pow(((value / 255) + 0.055) / 1.055, 2.4);
 }
